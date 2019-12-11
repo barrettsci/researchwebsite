@@ -1,4 +1,7 @@
-# Publications
+---
+layout: page
+title: Publications
+---
 
 **Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national-scale data analysis. *International Journal for Parasitology*.
 

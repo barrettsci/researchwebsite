@@ -1,0 +1,11 @@
+# basic options (hash = comment)
+title: Dr Luke Barrett
+author: Luke T Barrett
+email: barrett.luke@gmail.com
+description: Research on marine ecology, fish biology, and aquaculture x environment interactions
+twitter_username: lukbarrett
+github_username:  neoodax
+
+# Build settings
+markdown: kramdown
+theme: minima

@@ -24,5 +24,5 @@ Dempster T, Arechavala-Lopez P, **Barrett LT**, Fleming IA, Sanchez-Jerez P, Ugl
 **Barrett LT**, Evans JP, Gasparini C (2014) The effects of perceived mating opportunities on patterns of reproductive investment by male guppies. *PLoS ONE*. [URL](https://doi.org/10.1371/journal.pone.0093780) pdf
   
 ### In the media
-*Kyst* on UVC: https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys/  
-*FishFarmingExpert* on UVC: https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice/  
+***Kyst* on UVC**: https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys/  
+***FishFarmingExpert* on UVC**: https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice/  

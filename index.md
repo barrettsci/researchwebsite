@@ -17,4 +17,6 @@ Aquaculture modifies coastal marine environments by providing structural complex
 Salmon farms amplify lice densities, causing welfare issues and production losses for farmed salmon and threatening wild salmonid populations. New methods are needed to prevent, monitor and treat infestations. Most of this work is done in collaboration with researchers at the Norwegian Institute of Marine Research, with funding from FHF and MSD Animal Health Norway.
 
 **Importance and restoration of seaweed habitats**  
-Seaweed habitats are under threat from multiple stressors, including eutrophication, sedimentation and overgrazing. Kelp forests in particular have undergone massive declines. I'm interested in how to maintain seaweed habitats in degraded coastal areas, as well as documenting their important role as habitat for marine fish and invertebrates.
+Seaweed habitats are under threat from multiple stressors, including eutrophication, sedimentation and overgrazing. Kelp forests in particular have undergone massive declines. I'm interested in how to maintain seaweed habitats in degraded coastal areas, as well as documenting their important role as habitat for marine fish and invertebrates.  
+  
+![phase shift figure](phase-shift-LukeBarrett.jpg "Phase shift from native kelp to urchin barren to non-native kelp")

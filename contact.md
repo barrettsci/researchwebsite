@@ -11,4 +11,4 @@ Feel free to get in touch by [**email**](luke.barrett@unimelb.edu.au) or follow 
 [**Twitter**](https://www.twitter.com/lukbarrett)  
 [**Instagram**](https://www.instagram.com/barrettphoto/)  
   
-![phase shift figure](phase-shift-LukeBarrett.jpg "Phase shift from native kelp to urchin barren to non-native kelp")
+![profile](forestprofile.jpg "Luke Barrett")

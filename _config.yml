@@ -9,3 +9,10 @@ github_username:  neoodax
 # Build settings
 markdown: kramdown
 theme: minima
+
+# customise navigation
+header_pages:
+  - index.md
+  - blog/index.md
+  - publications.md
+  - contact.md

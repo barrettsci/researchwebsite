@@ -14,5 +14,7 @@ Feel free to get in touch by [**email**](luke.barrett@unimelb.edu.au) or follow 
 [**Twitter**](https://www.twitter.com/lukbarrett)  
 [**Instagram**](https://www.instagram.com/barrettphoto/)  
   
+![photographing dusky morwong](duskystalking.jpg "Luke Barrett")  
+  
 I also have a photography page, you can check it out [**here**](https://lukebarrett.com)!
   

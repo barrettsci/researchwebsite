@@ -11,7 +11,7 @@ Feel free to get in touch by [**email**](luke.barrett@unimelb.edu.au) or follow 
   
 [**Google Scholar**](https://scholar.google.ca/citations?hl=en&pli=1&user=m2VurpgAAAAJ)  
 [**ResearchGate**](https://www.researchgate.net/profile/Luke_Barrett)  
-[**Twitter**](https://www.twitter.com/lukbarrett)  
+[**Twitter**](https://www.twitter.com/LukeBarrettSci)  
 [**Instagram**](https://www.instagram.com/barrettphoto/)  
   
 ![photographing dusky morwong](duskystalking.jpg "Luke Barrett")  

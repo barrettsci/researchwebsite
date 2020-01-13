@@ -5,11 +5,11 @@ title: Publications
 
 **Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national-scale data analysis. *International Journal for Parasitology*.
 
-**Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (In Press) Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon. *Aquaculture*. [URL](https://doi.org/10.1016/j.aquaculture.2020.734954) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202020%20Aquaculture%20-%20UVC.pdf)
-
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (In Press) Sea lice removal by cleaner fish in salmon aquaculture: a systematic review of the evidence base. *Aquaculture Environment Interactions*. [URL](https://doi.org/10.3354/aei00345)
 
 Hassell K, **Barrett LT**, Dempster T (In Press) Impacts of human-induced pollution on wild fish welfare. In: The Welfare of Fish (edited by T Kristiansen et al.). Springer
+
+**Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (In Press) Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon. *Aquaculture*. [URL](https://doi.org/10.1016/j.aquaculture.2020.734954) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202020%20Aquaculture%20-%20UVC.pdf)
 
 **Barrett LT**, Pert CG, Bui S, Oppedal F, Dempster T (Early View) Sterilization of sea lice eggs with ultraviolet C light: towards a new preventative technique for aquaculture. *Pest Management Science*. [URL](https://doi.org/10.1002/ps.5595) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202018%20AEI%20cod.pdf)
 

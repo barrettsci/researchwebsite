@@ -13,6 +13,6 @@ theme: minima
 # customise navigation
 header_pages:
   - index.md
-  - blog/index.md
+#  - blog/index.md
   - publications.md
   - contact.md

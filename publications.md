@@ -3,6 +3,15 @@ layout: page
 title: Publications
 ---
 
+### Featured
+
+**Barrett LT**, Dempster T, Swearer SE (2019) A nonnative habitat-former mitigates native habitat loss for endemic reef fishes. *Ecological Applications*. [URL](https://doi.org/10.1002/eap.1956) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202019%20Ecol%20Apps%20wakame.pdf)
+
+**Barrett LT**, Swearer SE, Dempster T (2019) Impacts of marine and freshwater aquaculture on wildlife: a global meta-analysis. *Reviews in Aquaculture*. [URL](https://doi.org/10.1111/RAQ.12277) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202018%20RAQ%20wildlife.pdf)
+
+
+### All  
+
 **Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national-scale data analysis. *International Journal for Parasitology*.
 
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (In Press) Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base. *Aquaculture Environment Interactions*. [URL](https://doi.org/10.3354/aei00345)

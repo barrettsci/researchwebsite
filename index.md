@@ -12,17 +12,17 @@ I use a range of approaches, including field and lab experiments, systematic rev
   
 ## Current projects
     
-### Interactions between aquaculture and wildlife
+### Effects of aquaculture on wildlife
 Aquaculture modifies coastal marine environments by providing structural complexity and export of nutrients to the environment. A better understanding of effects on wildlife can be used to minimise negative impacts and maximise beneficial effects. I'm currently working with The Nature Conservancy to better understand the role of seaweed and shellfish farms as habitat for marine animals.  
   
 **Recent work:**  Barrett LT, Swearer SE, Dempster T (2019) Impacts of marine and freshwater aquaculture on wildlife: a global meta-analysis. *Reviews in Aquaculture*. [URL](https://doi.org/10.1111/RAQ.12277) [pdf](https://github.com/neoodax/research/blob/master/Barrett%20et%20al%202018%20RAQ%20wildlife.pdf)
   
 <p>&nbsp;</p>
 
-### Sea lice in Atlantic salmon aquaculture
+### Avoiding sea lice in Atlantic salmon aquaculture
 Salmon farms amplify louse densities, causing welfare issues and production losses for farmed salmon and threatening wild salmonid populations. New methods are needed to prevent, monitor and treat infestations. Most of this work is done in collaboration with researchers at the Norwegian Institute of Marine Research, with funding from FHF and MSD Animal Health Norway.  
   
-**Recent work:**  Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*.  
+**Recent work:**  Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*.  
   
 <p>&nbsp;</p>
   

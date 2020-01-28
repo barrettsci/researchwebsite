@@ -4,7 +4,9 @@ title: Overview
 ---
 
 I do research that drives more sustainable and ethical aquaculture, including a better understanding of how aquaculture activities 
-interact with the coastal marine environment. I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.
+interact with the coastal marine environment. I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.  
+  
+![photographing dusky morwong](duskystalking.jpg "Luke Barrett")  
   
 ## Current projects
     

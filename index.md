@@ -3,7 +3,7 @@ layout: page
 title: Overview
 ---
 
-I do research that drives more sustainable and ethical aquaculture and a better understanding of how marine aquaculture interacts with the marine environment. I also have an interest in temperate reef ecology, especially in maintaining productive and diverse temperate reef ecosystems in areas impacted by human activities. 
+I do research that drives more sustainable and ethical aquaculture and a better understanding of how aquaculture affects wildlife. I also have an interest in temperate reef ecology, especially in maintaining productive and diverse temperate reef ecosystems in areas impacted by human activities. 
 
 I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.  
   

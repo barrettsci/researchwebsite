@@ -3,7 +3,7 @@ layout: page
 title: Overview
 ---
 
-I do research that drives more sustainable and ethical aquaculture and develops a better understanding of how aquaculture activities interact with the coastal marine environment. I also have an interest in seaweed and temperate reef ecology, especially around how to maintain productive and diverse temperate reef ecosystems in systems affected by human activities. I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.  
+I do research that drives more sustainable and ethical aquaculture and develops a better understanding of how aquaculture activities interact with the coastal marine environment. I also have an interest in seaweed and temperate reef ecology, especially around how to maintain productive and diverse temperate reef ecosystems in areas impacted by human activities. I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.  
   
 ![photographing dusky morwong](duskystalking.jpg "Luke Barrett")  
   

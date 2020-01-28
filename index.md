@@ -7,7 +7,7 @@ I do research that drives more sustainable and ethical aquaculture and a better 
 
 I use a range of approaches, including field and lab experiments, systematic reviews and meta-analyses, and more recently, analysis of large public databases.  
   
-![photographing dusky morwong](duskystalking.jpg "Luke Barrett")  
+![photographing dusky morwong](duskystalking.jpg "photo credit: Ian Johnston")  
   
 ## Current projects
     

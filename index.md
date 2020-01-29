@@ -9,7 +9,7 @@ I use a range of approaches, including field and lab experiments, systematic rev
   
 ![photographing dusky morwong](duskystalking.jpg "photo credit: Ian Johnston")  
   
-## Current projects
+## Current research topics
     
 #### **Effects of aquaculture on wildlife**
 Aquaculture modifies coastal marine environments by providing structural complexity and export of nutrients to the environment. A better understanding of effects on wildlife can be used to minimise negative impacts and maximise beneficial effects. I'm currently working with The Nature Conservancy to better understand the role of seaweed and shellfish farms as habitat for marine animals.  

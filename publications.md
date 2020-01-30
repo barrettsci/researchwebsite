@@ -28,10 +28,10 @@ Dempster T, Arechavala-Lopez P, **Barrett LT**, Fleming IA, Sanchez-Jerez P, Ugl
   
 ### In the media  
 
-* [fishfarmingexpert.com on UVC sterilisation of salmon louse eggstrings](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice)
-* [kyst.no on UVC sterilisation of salmon louse eggstrings](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys)
-* [fishfarmingexpert.com on recapturing fish farm escapees](https://www.fishfarmingexpert.com/article/recapture-rethink-required)
-* [Pursuit magazine on ecological traps](https://pursuit.unimelb.edu.au/articles/when-good-animals-make-bad-decisions)
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice) on UVC sterilisation of salmon louse eggstrings
+* [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys) on UVC sterilisation of salmon louse eggstrings
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required) on recapturing fish farm escapees
+* [Pursuit magazine](https://pursuit.unimelb.edu.au/articles/when-good-animals-make-bad-decisions) on ecological traps
 
 
 

@@ -27,11 +27,11 @@ Dempster T, Arechavala-Lopez P, **Barrett LT**, Fleming IA, Sanchez-Jerez P, Ugl
   
   
 ### In the media  
-* [thefishsite.com](https://thefishsite.com/articles/study-questions-cleaner-fish-efficiency) on questionable use of cleaner fish for lice control in sea cages (based on [this](https://doi.org/10.3354/aei00345) study)
-* [dn.no](https://www.dn.no/havbruk/edgar-brun/veterinarinstituttet/frode-oppedal/mener-laksenaringen-ikke-er-barekraftig-ma-si-klarere-ifra/2-1-752295) on questionable use of cleaner fish for lice control in sea cages (in Norwegian) (based on [this](https://doi.org/10.3354/aei00345) study)
-* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice) on UVC sterilisation of salmon louse eggstrings (based on [this](https://doi.org/10.1002/ps.5595) study)
-* [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys) on UVC sterilisation of salmon louse eggstrings (paywalled and in Norwegian) (based on [this](https://doi.org/10.1002/ps.5595) study)
-* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required) on recapturing fish farm escapees
+* [thefishsite.com](https://thefishsite.com/articles/study-questions-cleaner-fish-efficiency) on questionable use of cleaner fish for lice control in sea cages (see [this](https://doi.org/10.3354/aei00345) study)
+* [dn.no](https://www.dn.no/havbruk/edgar-brun/veterinarinstituttet/frode-oppedal/mener-laksenaringen-ikke-er-barekraftig-ma-si-klarere-ifra/2-1-752295) on questionable use of cleaner fish for lice control in sea cages (in Norwegian) (see [this](https://doi.org/10.3354/aei00345) study)
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice) on UVC sterilisation of salmon louse eggstrings (see [this](https://doi.org/10.1002/ps.5595) study)
+* [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys) on UVC sterilisation of salmon louse eggstrings (paywalled and in Norwegian) (see [this](https://doi.org/10.1002/ps.5595) study)
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required) on recapturing fish farm escapees (see [this](https://doi.org/10.1111/raq.12153) study)
 * [Pursuit magazine](https://pursuit.unimelb.edu.au/articles/when-good-animals-make-bad-decisions) on ecological traps
 
 

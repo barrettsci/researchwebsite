@@ -19,9 +19,8 @@ Barrett LT, Swearer SE, Dempster T (2019) Impacts of marine and freshwater aquac
 #### **Avoiding sea lice in Atlantic salmon aquaculture**
 Salmon farms amplify louse densities, causing welfare issues and production losses for farmed salmon and threatening wild salmonid populations. New methods are needed to prevent, monitor and treat infestations. Most of this work is done in collaboration with researchers at the Norwegian Institute of Marine Research, with funding from FHF and MSD Animal Health Norway.  
   
-Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*.  
+Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005)  
   
-
 #### **Ecology of seaweed and temperate reef habitats**
 Seaweed reef habitats are under threat from multiple stressors, including eutrophication, sedimentation and overgrazing. Kelp forests in particular have undergone massive declines. I'm interested in how to maintain seaweed habitats in degraded coastal areas, as well as documenting their important role as habitat for marine fish and invertebrates.  
 

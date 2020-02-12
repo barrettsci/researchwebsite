@@ -41,7 +41,7 @@ UVC light for sterilisation of sea louse eggs ([this study](https://doi.org/10.1
 Recapturing fish that escape from farms does not work: what are the alternatives? ([this study](https://doi.org/10.1111/raq.12153)):  
 * [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required)  
 
-The problem of 'ecological traps' ([this study](https://doi.org/10.1002/eap.1956))  
+The problem of 'ecological traps' ([this study](https://doi.org/10.1002/eap.1956)):  
 * [Pursuit magazine](https://pursuit.unimelb.edu.au/articles/when-good-animals-make-bad-decisions)  
 
 

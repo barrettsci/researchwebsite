@@ -15,4 +15,5 @@ header_pages:
   - index.md
 #  - blog/index.md
   - publications.md
+  - media.md
   - contact.md

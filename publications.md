@@ -5,7 +5,7 @@ title: Publications
 
 Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (In Press) Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes. *Fish and Fisheries*.
 
-**Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005)
+**Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005) [pdf](https://github.com/neoodax/research/blob/master/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
 
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (In Press) Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base. *Aquaculture Environment Interactions*. [URL](https://doi.org/10.3354/aei00345) [pdf](https://github.com/neoodax/research/blob/master/Overton%20et%20al%202020%20AEI%20cleaner%20fish.pdf)
 

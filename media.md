@@ -3,7 +3,12 @@ layout: page
 title: In the media
 ---
 
-Insufficient evidence to justify use of 'cleaner fishes' in salmon farming ([this study](https://doi.org/10.3354/aei00345)):  
+Variable and short-lived effects of cleaner fishes when viewed at national scale ([this study](https://doi.org/10.1016/j.ijpara.2019.12.005)):
+* [hi.no](https://www.hi.no/hi/nyheter/2020/mars/rensefisk-ingen-universalkur-mot-lakselus)
+* [thefishsite.com](https://thefishsite.com/articles/paper-questions-cleaner-fish-efficacy)
+* [kyst.no](https://www.kyst.no/article/studie-rensefisk-ingen-universalkur-mot-lakselus/)
+
+Insufficient evidence to justify use of cleaner fishes in salmon farming ([this study](https://doi.org/10.3354/aei00345)):  
 * [thefishsite.com](https://thefishsite.com/articles/study-questions-cleaner-fish-efficiency)  
 * [dn.no](https://www.dn.no/havbruk/edgar-brun/veterinarinstituttet/frode-oppedal/mener-laksenaringen-ikke-er-barekraftig-ma-si-klarere-ifra/2-1-752295)  
 * [kyst.no](https://www.kyst.no/article/etterlyser-dokumentasjon-paa-at-rensefisk-er-effektivt/)  

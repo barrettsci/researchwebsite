@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Bui S, Oppedal F, Nola V, **Barrett LT** (In Press) Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages. *Journal of Fish Diseases*.
+Bui S, Oppedal F, Nola V, **Barrett LT** (In Press) Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages. *Journal of Fish Diseases*. [pdf](https://github.com/neoodax/research/blob/master/Bui-et-al-2020-JFishDis.pdf)
 
 Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (In Press) [Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes](https://dx.doi.org/10.1111/faf.12455). *Fish and Fisheries*. [pdf](https://github.com/neoodax/research/blob/master/Fulton-et-al-2020-FishFish-macroalgae.pdf)
 

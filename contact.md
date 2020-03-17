@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
   
-![profile](forestprofile.jpg "Luke Barrett")  
+![profile](images/forestprofile.jpg)  
   
 I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia.
   

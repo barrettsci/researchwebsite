@@ -5,7 +5,7 @@ title: Overview
 
 I do research to drive more sustainable use of the coastal marine environment. I'm interested in animal welfare within sea cage fish farming, effects of aquaculture on the coastal environment (including wildlife), and how to maintain productive and diverse temperate reef ecosystems in areas impacted by human activities.  
   
-![photographing dusky morwong](duskystalking.jpg "photo credit: Ian Johnston")  
+![photographing dusky morwong](images/duskystalking.jpg "photo credit: Ian Johnston")  
   
 ## Current research topics
     

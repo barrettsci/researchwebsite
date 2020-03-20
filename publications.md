@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+![profile](images/warneet.jpg)  
 
 Bui S, Oppedal F, Nola V, **Barrett LT** (In Press) Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages. *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis.pdf)
 

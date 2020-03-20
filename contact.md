@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
   
-![profile](images/mosaicprofile.jpg)  
+![profile](images/forestprofile.jpg)  
   
 I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia.
   
@@ -14,7 +14,5 @@ Feel free to get in touch by [**email**](luke.barrett@unimelb.edu.au) or follow 
 [**Twitter**](https://www.twitter.com/LukeBarrettSci)  
 [**Instagram**](https://www.instagram.com/barrettphoto/)  
   
-I also have a photography portfolio website, you can check it out [**here**](https://lukebarrett.com)!
-
-![profile](images/warneet.jpg)  
+I also have a photography portfolio website, you can check it out [**here**](https://lukebarrett.com)!  
   

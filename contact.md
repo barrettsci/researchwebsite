@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
   
-![profile](images/forestprofile.jpg)  
+![profile](images/mosaicprofile.jpg)  
   
 I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia.
   

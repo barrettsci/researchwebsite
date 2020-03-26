@@ -19,7 +19,6 @@ UVC light for sterilisation of sea louse eggs ([this study](https://doi.org/10.1
 * [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice) (English)
 * [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys) (Norwegian)
 * [hi.no](https://www.hi.no/hi/nyheter/2020/mars/uv-lys-tar-knekken-pa-lakselus-men-gjor-laksen-solbrent) (Norwegian)
-https://www.hi.no/hi/nyheter/2020/mars/uv-lys-tar-knekken-pa-lakselus-men-gjor-laksen-solbrent
 
 Recapturing fish that escape from farms does not work: what are the alternatives? ([this study](https://doi.org/10.1111/raq.12153)):  
 * [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required) (English)

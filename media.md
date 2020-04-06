@@ -17,6 +17,7 @@ Insufficient evidence to justify use of cleaner fishes in salmon farming ([this 
 
 UVC light for sterilisation of sea louse eggs ([this study](https://doi.org/10.1002/ps.5595) and [this study](https://doi.org/10.1016/j.aquaculture.2020.734954)):  
 * [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice) (English)
+* [nrk.no](https://www.nrk.no/nordland/mislykket-forsok-med-uv-lys-for-a-ta-knekken-pa-lakselusa.-laksen-ble-skadet-og-solbrent-1.14962964) (Norwegian)
 * [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys) (Norwegian)
 * [hi.no](https://www.hi.no/hi/nyheter/2020/mars/uv-lys-tar-knekken-pa-lakselus-men-gjor-laksen-solbrent) (Norwegian)
 

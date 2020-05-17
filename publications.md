@@ -10,7 +10,7 @@ Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barre
 
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (2020) [Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base](https://doi.org/10.3354/aei00345). *Aquaculture Environment Interactions*. [pdf](pdfs/Overton-et-al-2020-AEI-cleaner-fish.pdf)
 
-Hassell K, **Barrett LT**, Dempster T (In Press) Impacts of human-induced pollution on wild fish welfare. In: The Welfare of Fish (edited by T Kristiansen et al.). Springer [pdf]()
+Hassell K, **Barrett LT**, Dempster T (In Press) Impacts of human-induced pollution on wild fish welfare. In: The Welfare of Fish (edited by T Kristiansen et al.). Springer [link](https://www.springer.com/gp/book/9783030416744#aboutBook)
 
 **Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (2020) [Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon](https://doi.org/10.1016/j.aquaculture.2020.734954). *Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-Aquaculture-UVC.pdf)
 

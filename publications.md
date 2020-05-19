@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+<<<<<<< HEAD
 Bui S, Oppedal F, Nola V, **Barrett LT** (2020) Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages. *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis.pdf)
 
 Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (2020) [Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes](https://dx.doi.org/10.1111/faf.12455). *Fish and Fisheries*. [pdf](pdfs/Fulton-et-al-2020-FishandFisheries-seaweed.pdf)
@@ -9,8 +10,19 @@ Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barre
 **Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (2020) [Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis](https://doi.org/10.1016/j.ijpara.2019.12.005). *International Journal for Parasitology*. [pdf](pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
 
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (2020) [Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base](https://doi.org/10.3354/aei00345). *Aquaculture Environment Interactions*. [pdf](pdfs/Overton-et-al-2020-AEI-cleaner-fish.pdf)
+=======
+**Barrett LT**, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. 
 
-Hassell K, **Barrett LT**, Dempster T (In Press) Impacts of human-induced pollution on wild fish welfare. In: The Welfare of Fish (edited by T Kristiansen et al.). Springer [pdf]()
+Bui S, Oppedal F, Nola V, **Barrett LT** (2020) [Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages](https://doi.org/10.1111/jfd.13167). *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis.pdf)
+
+Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (2020) [Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes](https://dx.doi.org/10.1111/faf.12455). *Fish and Fisheries*. [pdf](pdfs/Fulton-et-al-2020-FishandFisheries-seaweed.pdf)
+
+**Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (2020) [Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis](https://doi.org/10.1016/j.ijpara.2019.12.005). *International Journal for Parasitology*. [pdf](pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
+>>>>>>> a685a26ce31f44d9238c675d21cebca9c94e8a65
+
+Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (2020) [Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base](https://doi.org/10.3354/aei00345). *Aquaculture Environment Interactions*. [pdf](pdfs/Overton-et-al-2020-AEI-cleaner-fish.pdf)
+
+Hassell K, **Barrett LT**, Dempster T (In Press) Impacts of human-induced pollution on wild fish welfare. In: [The Welfare of Fish](https://www.springer.com/gp/book/9783030416744#aboutBook) (edited by T Kristiansen et al.). Springer
 
 **Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (2020) [Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon](https://doi.org/10.1016/j.aquaculture.2020.734954). *Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-Aquaculture-UVC.pdf)
 

@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Barrett LT**, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. 
+**Barrett LT**, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)
 
 Bui S, Oppedal F, Nola V, **Barrett LT** (2020) [Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages](https://doi.org/10.1111/jfd.13167). *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis.pdf)
 

@@ -21,7 +21,7 @@ Salmon farms amplify louse densities, causing welfare issues and production loss
 
 **Partners**: Institute of Marine Research (Norway), MSD Animal Health (Norway), Planet Lighting Pty Ltd (Australia)  
   
-Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (In Press) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005) [pdf](https://github.com/neoodax/research/blob/master/pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
+Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (2020) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005) [pdf](https://github.com/neoodax/research/blob/master/pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
   
 ### **Ecology of seaweed and temperate reef habitats**
 Seaweed reef habitats are under threat from multiple stressors, including eutrophication, sedimentation and overgrazing. I'm interested in the role and conservation of seaweed habitats in degraded coastal areas.  

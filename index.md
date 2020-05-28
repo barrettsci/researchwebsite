@@ -21,7 +21,7 @@ Intensive salmon farming has brought great economic benefits for several countri
 
 **Partners**: Institute of Marine Research (Norway), MSD Animal Health (Norway), Planet Lighting Pty Ltd (Australia)  
   
-Barrett LT, Overton K, Stien LH, Oppedal F, Dempster T (2020) Effect of cleaner fish on sea lice in Norwegian   salmon aquaculture: a national scale data analysis. *International Journal for Parasitology*. [URL](https://doi.org/10.1016/j.ijpara.2019.12.005) [pdf](https://github.com/neoodax/research/blob/master/pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
+Barrett LT, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)
   
 ### **Ecology of temperate reef habitats**
 Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas.  

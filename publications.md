@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Bui S, Geitung L, Oppedal F, **Barrett** LT (In Press) Salmon lice elude the straight shooter: efficacy of laser delousing in commercial sea cages. *Preventive Veterinary Medicine*.
+
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (In Press) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
 **Barrett LT**, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)

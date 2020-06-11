@@ -3,13 +3,13 @@ layout: page
 title: Publications
 ---
 
-Bui S, Geitung L, Oppedal F, **Barrett LT** (In Press) Salmon lice elude the straight shooter: efficacy of laser delousing in commercial sea cages. *Preventive Veterinary Medicine*.
+Bui S, Geitung L, Oppedal F, **Barrett LT** (In Press) Salmon lice elude the straight shooter: efficacy of laser delousing in commercial sea cages. *Preventive Veterinary Medicine*. [pdf](pdfs/Bui-et-al-2020-PVM-laser.pdf)
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (In Press) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
 **Barrett LT**, Oppedal F, Robinson N, Dempster T (In Press) Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture. *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)
 
-Bui S, Oppedal F, Nola V, **Barrett LT** (2020) [Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages](https://doi.org/10.1111/jfd.13167). *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis.pdf)
+Bui S, Oppedal F, Nola V, **Barrett LT** (2020) [Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages](https://doi.org/10.1111/jfd.13167). *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis-attach-locs.pdf)
 
 Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (2020) [Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes](https://dx.doi.org/10.1111/faf.12455). *Fish and Fisheries*. [pdf](pdfs/Fulton-et-al-2020-FishandFisheries-seaweed.pdf)
 

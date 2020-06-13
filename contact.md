@@ -5,7 +5,7 @@ title: Contact
   
 ![profile](images/forestprofile.jpg)  
   
-I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia, and also contracting with The Nature Conservancy on their global a sustainable quaculture project.
+I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia, and also contracting with The Nature Conservancy on their global a sustainable aquaculture project.
   
 Feel free to get in touch by [**email**](luke.barrett@unimelb.edu.au) or follow me to see what I've been up to:  
   

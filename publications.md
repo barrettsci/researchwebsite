@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Bui S, Geitung L, Oppedal F, **Barrett LT** (2020) [Salmon lice elude the straight shooter: efficacy of laser delousing in commercial sea cages](https://doi.org/10.1016/j.prevetmed.2020.105063). *Preventive Veterinary Medicine*. In Press. [pdf](pdfs/Bui-et-al-2020-PVM-laser.pdf)
+Bui S, Geitung L, Oppedal F, **Barrett LT** (2020) [Salmon lice survive the straight shooter: efficacy of laser delousing in commercial sea cages](https://doi.org/10.1016/j.prevetmed.2020.105063). *Preventive Veterinary Medicine*. In Press. [pdf](pdfs/Bui-et-al-2020-PVM-laser.pdf)
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2020) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*. In Press.
 

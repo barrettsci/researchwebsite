@@ -9,7 +9,7 @@ I do research to drive more sustainable use of the coastal marine environment. I
   
 ## Current research topics
     
-**AQUACULTURE X ENVIRONMENT INTERACTIONS**  
+**INTERACTIONS BETWEEN AQUACULTURE AND THE ENVIRONMENT**  
 Aquaculture modifies coastal marine environments by providing structure and altering nutrient dynamics. This has wide-ranging effects on environmental conditions and wildlife populations. A better understanding of these effects can help achieve more positive outcomes for wildlife populations, mitigate negative impacts, and maximise provision of ecosystem services.  
   
 **MANAGING SEA LICE IN SALMON AQUACULTURE**  

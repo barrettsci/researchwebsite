@@ -3,7 +3,7 @@ layout: page
 title: Overview
 ---
 
-I do research to drive more sustainable use of the coastal marine environment. I'm especially interested in the effects of aquaculture on wildlife populations, how to improve animal welfare in fish farming, and how to maintain productive and diverse temperate reef ecosystems in areas impacted by human activities.  
+I do research to drive more sustainable use of the coastal marine environment. I'm especially interested in understanding the positive and negative effects of aquaculture on wildlife populations, how to improve animal welfare in fish farming, and how to maintain productive and diverse temperate reef ecosystems in areas impacted by human activities.  
   
 ![photographing dusky morwong](images/duskystalking.jpg "photo credit: Ian Johnston")  
   

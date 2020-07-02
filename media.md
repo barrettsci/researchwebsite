@@ -3,6 +3,14 @@ layout: page
 title: In the media
 ---
 
+Why sea lice prevention is better than cure ([this study](http://dx.doi.org/10.1111/raq.12456))
+* [thefishsite.com](https://thefishsite.com/articles/why-sea-lice-prevention-is-better-than-cure) (English)
+* [kyst.no](https://www.kyst.no/article/ny-luseforskning-disse-metodene-gir-best-resultat) (Norwegian)
+
+No effect of automated laser technology on lice levels in snorkel cages [this study](https://doi.org/10.1016/j.prevetmed.2020.105063):
+* [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser) (English)
+* [kyst.no](https://www.kyst.no/article/forskere-saa-ingen-effekt-av-luselaser) (Norwegian)
+
 Variable and short-lived effects of cleaner fishes when viewed at national scale ([this study](https://doi.org/10.1016/j.ijpara.2019.12.005)):
 * [thefishsite.com](https://thefishsite.com/articles/paper-questions-cleaner-fish-efficacy) (English)
 * [hi.no](https://www.hi.no/en/hi/news/2020/november/study-cleaner-fish-no-magic-bullet-against-salmon-lice) (English) / [hi.no](https://www.hi.no/hi/nyheter/2020/mars/rensefisk-ingen-universalkur-mot-lakselus) (Norwegian)

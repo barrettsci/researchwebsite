@@ -6,6 +6,7 @@ title: In the media
 Why sea lice prevention is better than cure ([link to study](http://dx.doi.org/10.1111/raq.12456))
 * [thefishsite.com](https://thefishsite.com/articles/why-sea-lice-prevention-is-better-than-cure) (English)
 * [kyst.no](https://www.kyst.no/article/ny-luseforskning-disse-metodene-gir-best-resultat) (Norwegian)
+* [Norwegian Fish Farming / Norsk Fiskeoppdrett](https://www.kyst.no/profile/magazines/132787) (Norwegian)
 
 No effect of automated laser technology on lice levels in snorkel cages ([link to study](https://doi.org/10.1016/j.prevetmed.2020.105063)):
 * [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser) (English)

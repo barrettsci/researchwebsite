@@ -9,7 +9,7 @@ github_username:  neoodax
 # Build settings
 markdown: kramdown
 theme: minima
-skin: research/_sass/minima/skins/dark.scss
+skin: dark
 
 # customise navigation
 header_pages:

@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-*I believe in open science, but early career research doesn't always come with a spare $3000+ for open access fees. Instead, you can download unformatted copies of published papers by clicking on the "pdf" links below, or else feel free to [**email**](luke.barrett@unimelb.edu.au) and ask me for the most up-to-date version of any of my accepted or published papers*  
+*I believe in open science, but early career research doesn't always come with a spare $3000+ for open access fees! Instead, you can download unformatted copies of any published papers by clicking on the "pdf" links below, or else [**email**](luke.barrett@unimelb.edu.au) me and I'll be very happy to send an up-to-date version of any of my accepted or published papers. You can also request copies through [**ResearchGate**](https://www.researchgate.net/profile/Luke_Barrett).*  
 &nbsp;  
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.

@@ -3,7 +3,8 @@ layout: page
 title: Publications
 ---
 
-Below is a list of published or recently accepted papers and book chapters. Early career funding often doesn't cover open access fees, but you can download unformatted copies by clicking on the **pdf** links, or else send me an [**email**](luke.barrett@unimelb.edu.au) for a copy of the print version.  
+Below is a list of published or recently accepted papers and book chapters. Early career funding often doesn't cover open access fees, but you can download unformatted copies by clicking on the "pdf" links, or else send me an [**email**](luke.barrett@unimelb.edu.au) for a copy of the print version.  
+&nbsp;  
 &nbsp;  
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.

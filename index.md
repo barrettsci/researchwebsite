@@ -1,6 +1,6 @@
 ---
 layout: page
-list_title: ' '
+title: Overview
 ---
 
 I do research to drive more sustainable use of the coastal marine environment. I'm especially interested in understanding the positive and negative effects of aquaculture (fish, shellfish and seaweed farming) on wildlife populations, how to improve animal welfare in fish farming, and how to maintain productive and diverse temperate reef ecosystems in areas impacted by human activities.  

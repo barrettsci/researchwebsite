@@ -7,13 +7,11 @@ I do research to drive more sustainable use of the coastal marine environment. I
   
 ![photographing dusky morwong](images/duskystalking.jpg "photo credit: Ian Johnston")  
   
-## Main research topics
-    
-**Interactions between aquaculture and the environment**  
+**Theme 1: Interactions between aquaculture and the environment**  
 Aquaculture modifies coastal marine environments by providing structure and altering nutrient dynamics. This has wide-ranging effects on the benthic environment, water quality and wildlife populations. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and maximise provision of ecosystem services for coastal communities.  
   
-**Managing sea lice in salmon farming**  
+**Theme 2: Fish health in salmon farming**  
 Intensive salmon farming has brought great economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice, causing welfare issues and production losses for farmed salmon and threatening wild salmonid populations around heavily infested farms. New methods are needed to prevent, monitor and treat infestations.  
   
-**Temperate reef ecology, conservation and restoration**  
+**Theme 3: Temperate reef ecology, conservation and restoration**  
 Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae and management of overabundant sea urchins.  

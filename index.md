@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Overview
 list_title: ' '
 ---
 

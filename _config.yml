@@ -7,8 +7,8 @@ twitter_username: LukeBarrettSci
 github_username:  neoodax
 
 # Build settings
-minima:
-skin: dark
+markdown: kramdown
+theme: minima
 
 # customise navigation
 header_pages:

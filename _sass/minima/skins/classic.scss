@@ -85,6 +85,6 @@ $table-border-color:    $brand-color-light !default;
 
 // import skin-agnostic styles and override
 @import
-  "minima/initialize",
-  "minima/custom-styles"
+  "minima/skins/initialize",
+  "minima/skins/custom-styles"
 ;

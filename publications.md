@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-Below is a list of published or recently accepted papers and book chapters. Early career funding often doesn't cover open access fees, but you can download unformatted copies by clicking on the **pdf** links, or else send me an [**email**](luke.barrett@unimelb.edu.au) for a copy of the print version!
-  
-  
+Below is a list of published or recently accepted papers and book chapters. Early career funding often doesn't cover open access fees, but you can download unformatted copies by clicking on the **pdf** links, or else send me an [**email**](luke.barrett@unimelb.edu.au) for a copy of the print version.  
+&nbsp;  
+
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
 **Barrett LT**, Oppedal F, Robinson N, Dempster T (2020) [Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture](http://dx.doi.org/10.1111/raq.12456). *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)

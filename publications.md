@@ -4,8 +4,9 @@ title: Publications
 ---
 
 *I support open science, but can't always afford open access fees. You can download unformatted versions of my published papers via the "pdf" links below, or [**email**](luke.barrett@unimelb.edu.au) me and I'll happily send the formatted version. You can also request copies through [**ResearchGate**](https://www.researchgate.net/profile/Luke_Barrett), or look up Sci-Hub...*  
-&nbsp;  
-
+  
+---
+  
 **Barrett LT**, Swearer SE, Dempster T (Accepted) Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat. *Marine Environmental Research*. [pdf](pdfs/Barrett-et-al-2020-MERE-seastars.pdf)
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.

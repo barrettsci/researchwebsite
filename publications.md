@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-*I think research should be read, but can't always afford open access fees. Instead, you can download unformatted copies of any published papers by clicking on the "pdf" links below, or else [**email**](luke.barrett@unimelb.edu.au) me and I'll be very happy to send an up-to-date version of any of my accepted or published papers. You can also request copies through [**ResearchGate**](https://www.researchgate.net/profile/Luke_Barrett), or look up Sci-Hub...*  
+*I support open science, but can't always afford open access fees. You can download unformatted versions of my published papers via the "pdf" links below, or [**email**](luke.barrett@unimelb.edu.au) me and I'll happily send the formatted version. You can also request copies through [**ResearchGate**](https://www.researchgate.net/profile/Luke_Barrett), or look up Sci-Hub...*  
 &nbsp;  
 
 **Barrett LT**, Swearer SE, Dempster T (Accepted) Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat. *Marine Environmental Research*.

@@ -7,7 +7,7 @@ title: Publications
   
 ---
   
-**Barrett LT**, Swearer SE, Dempster T (Accepted) Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat. *Marine Environmental Research*.
+**Barrett LT**, Swearer SE, Dempster T (Accepted) Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat. *Marine Environmental Research*. [pdf](pdfs/Barrett-et-al-2020-MERE-seastars.pdf)
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 

@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
   
-![profile](images/forestprofile.jpg)  
+![profile](images/greenprofile.jpg)  
   
 I'm based in Tim Dempster's [**SALTT**](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia, and am also contracting with [**The Nature Conservancy**](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) on their global sustainable aquaculture project.
   

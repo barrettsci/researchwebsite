@@ -5,7 +5,9 @@ title: Contact
   
 ![profile](images/greenprofile.jpg)  
   
-I'm a post-doc in Tim Dempster's [SALTT](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia, and am also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) on their global sustainable aquaculture project.
+I'm a Research Fellow in Innovative Aquaculture based in the [SALTT](https://blogs.unimelb.edu.au/saltt) lab in the School of BioSciences, University of Melbourne, Australia. I'm currently spread across a few time zones, working on a Norwegian Research Council project awarded to Ole Folkedal (Institute of Marine Research) and Eide Fjordbruk AS, and contracting with [The Nature Conservancy USA](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to produce some research on their global sustainable aquaculture project.
+  
+In my spare time I can be found in the ocean, up a mountain, or tinkering in the shed.
   
 Feel free to get in touch by [email](luke.barrett@unimelb.edu.au) or follow me to see what I've been up to:  
   

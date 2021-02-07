@@ -9,6 +9,8 @@ title: Publications
   
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
+Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (Accepted) Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions. *Reviews in Aquaculture*.
+
 **Barrett LT**, Swearer SE, Dempster T (2020) [Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat](https://doi.org/10.1016/j.marenvres.2020.105152). *Marine Environmental Research*. [pdf](pdfs/Barrett-et-al-2020-MERE-seastars.pdf)
 
 **Barrett LT**, Oppedal F, Robinson N, Dempster T (2020) [Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture](http://dx.doi.org/10.1111/raq.12456). *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)

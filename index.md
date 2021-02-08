@@ -3,7 +3,10 @@ layout: page
 title: Home
 ---
 
-I do research to drive more sustainable use of the coastal marine environment. I'm especially interested in guiding more sustainable aquaculture (fish, shellfish and seaweed farming), improving animal welfare in fish farming, and conserving temperate reef ecosystems.  
+I do research to drive more sustainable use of the coastal marine environment.  
+
+I'm especially interested in understanding the role that shellfish and seaweed aquaculture can play in providing sustainable seafood into the future, how ongoing expansion of aquaculture will affect coastal ecosystems and wildlife, and how to improve animal welfare in fish farming. When I get a chance, I also like to work on the conservation of temperate reef ecosystems.  
+
 &nbsp;  
   
 ![Warneet River](images/warneet.jpg)  

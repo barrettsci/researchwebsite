@@ -9,7 +9,7 @@ title: Publications
   
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
-Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. In: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
+Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 
 Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (Accepted) Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions. *Reviews in Aquaculture*.
 
@@ -27,7 +27,7 @@ Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barre
 
 Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (2020) [Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base](https://doi.org/10.3354/aei00345). *Aquaculture Environment Interactions*. [pdf](pdfs/Overton-et-al-2020-AEI-cleaner-fish.pdf)
 
-Hassell K, **Barrett LT**, Dempster T (2020) Impacts of human-induced pollution on wild fish welfare. In: [The Welfare of Fish](https://www.springer.com/gp/book/9783030416744#aboutBook) (edited by T Kristiansen et al.). Springer
+Hassell K, **Barrett LT**, Dempster T (2020) Impacts of human-induced pollution on wild fish welfare. Book chapter in: [The Welfare of Fish](https://www.springer.com/gp/book/9783030416744#aboutBook) (edited by T Kristiansen et al.). Springer
 
 **Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (2020) [Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon](https://doi.org/10.1016/j.aquaculture.2020.734954). *Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-Aquaculture-UVC.pdf)
 

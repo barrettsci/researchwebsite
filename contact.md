@@ -14,4 +14,4 @@ I like collaborating and sharing research, so feel free to get in touch by [emai
 [Twitter](https://www.twitter.com/LukeBarrettSci)  
 [Instagram](https://www.instagram.com/barrettphoto/)  
   
-In my spare time I can be found in the ocean hunting for seafood or up a mountain with a [camera](https://lukebarrett.com).
+In my spare time, I can be found in the ocean hunting for a feed, or else up a mountain with a [camera](https://lukebarrett.com).

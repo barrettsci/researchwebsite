@@ -9,7 +9,7 @@ I'm especially interested in understanding the role that shellfish and seaweed a
 
 &nbsp;  
   
-![Warneet River](images/warneet.jpg)  
+![Satellite image of oyster farm, Tasmania](images/oyster-farm-tas.jpeg)  
   
 **Theme 1: Role of aquaculture sites as habitat for wildlife**  
 Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  

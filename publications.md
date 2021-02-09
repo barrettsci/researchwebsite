@@ -7,11 +7,11 @@ title: Publications
   
 ---
   
-Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (Accepted) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
+Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (In Press) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
 
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 
-Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (Accepted) Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions. *Reviews in Aquaculture*.
+Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) [Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions](https://doi.org/10.1111/raq.12534). *Reviews in Aquaculture*.
 
 **Barrett LT**, Swearer SE, Dempster T (2020) [Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat](https://doi.org/10.1016/j.marenvres.2020.105152). *Marine Environmental Research*. [pdf](pdfs/Barrett-et-al-2020-MERE-seastars.pdf)
 

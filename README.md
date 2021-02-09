@@ -1,1 +1,1 @@
-Research website built using minima template
+This is a research portfolio website built using the minima template

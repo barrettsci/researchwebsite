@@ -1,1 +1,1 @@
-This is a research portfolio website built using the minima template
+This is Luke Barrett's research portfolio website, built using the minima template.

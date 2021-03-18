@@ -7,9 +7,9 @@ title: Publications
   
 ---
   
-Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (In Press) The FAQs about ecological traps in marine ecosystems. *Frontiers in Ecology and the Environment*.
-
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
+
+Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) [An overview of ecological traps in marine ecosystems](https://doi.org/10.1002/fee.2322). *Frontiers in Ecology and the Environment*. 
 
 Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) [Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions](https://doi.org/10.1111/raq.12534). *Reviews in Aquaculture*.
 

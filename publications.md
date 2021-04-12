@@ -4,10 +4,10 @@ title: Publications
 ---
 
 *I don't always have funding for open access fees, but you can download unformatted versions of my published papers via the "pdf" links below, or [email](luke.barrett@unimelb.edu.au) me and I'll happily send the formatted version. You can also request copies through [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett), or look up Sci-Hub...*  
-  
+
 ---
-  
-Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (In Press) Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway. *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI.pdf)
+
+Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (In Press) Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway. *Aquaculture Environment Interactions*.
 
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 

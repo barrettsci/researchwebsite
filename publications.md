@@ -7,7 +7,7 @@ title: Publications
 
 ---
 
-Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (In Press) Habitat value of bivalve shellfish and seaweed aquaculture: mechanisms, implications, and next steps. Reviews in Aquaculture.
+Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (In Press) Habitat value of bivalve shellfish and seaweed aquaculture for fish and invertebrates: pathways, synthesis, next steps. *Reviews in Aquaculture*.
 
 Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (In Press) [Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway](https://doi.org/10.3354/aei00402). *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI-farmed-vs-wild-hosts.pdf)
 

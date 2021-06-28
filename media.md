@@ -11,7 +11,7 @@ title: In the media
 * [kyst.no](https://www.kyst.no/article/ny-luseforskning-disse-metodene-gir-best-resultat) (Norwegian)
 * [Norsk Fiskeoppdrett](https://www.kyst.no/profile/magazines/132787) (Norwegian)
 
-**Automated laser technology doesn't yet work in snorkel cages**
+**Automated laser technology doesn't work yet (in snorkel cages)**
 * [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser)
 * [kyst.no](https://www.kyst.no/article/forskere-saa-ingen-effekt-av-luselaser) (Norwegian)
 

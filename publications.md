@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-*Research should not be paywalled, but sometimes is. Preprints of most of my publications are downloadable via "pdf" links below. Otherwise, contact me via [email](luke.barrett@unimelb.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett) and I'll gladly share the journal-formatted version.*
+*Research should not be paywalled, but sometimes is. Preprints of most of my publications are downloadable via "pdf" links below. Otherwise, contact me via [email](luke.barrett@unimelb.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett) and I'll gladly share the journal-formatted version!*
 
 ---
 

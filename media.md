@@ -20,7 +20,7 @@ title: In the media
 * [hi.no](https://www.hi.no/en/hi/news/2020/november/study-cleaner-fish-no-magic-bullet-against-salmon-lice) (English version) / [hi.no](https://www.hi.no/hi/nyheter/2020/mars/rensefisk-ingen-universalkur-mot-lakselus) (Norwegian version)
 * [kyst.no](https://www.kyst.no/article/studie-rensefisk-ingen-universalkur-mot-lakselus/) (Norwegian)
 
-**Evidence to justify use of cleaner fishes in salmon farming is lacking**
+**The use of cleaner fishes in salmon farming is justified by very limited evidence**
 * [thefishsite.com](https://thefishsite.com/articles/study-questions-cleaner-fish-efficiency)
 * [dn.no](https://www.dn.no/havbruk/edgar-brun/veterinarinstituttet/frode-oppedal/mener-laksenaringen-ikke-er-barekraftig-ma-si-klarere-ifra/2-1-752295) (Norwegian)
 * [kyst.no](https://www.kyst.no/article/etterlyser-dokumentasjon-paa-at-rensefisk-er-effektivt/) (Norwegian)

@@ -9,9 +9,9 @@ title: Publications
 
 Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (In Press) [Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway](https://doi.org/10.3354/aei00402). *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI-farmed-vs-wild-hosts.pdf)
 
-Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (2021) [Habitat value of bivalve shellfish and seaweed aquaculture for fish and invertebrates: pathways, synthesis, next steps](https://doi.org/10.1111/raq.12584). *Reviews in Aquaculture*.
-
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
+
+Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (2021) [Habitat value of bivalve shellfish and seaweed aquaculture for fish and invertebrates: pathways, synthesis, next steps](https://doi.org/10.1111/raq.12584). *Reviews in Aquaculture*.
 
 Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) [An overview of ecological traps in marine ecosystems](https://doi.org/10.1002/fee.2322). *Frontiers in Ecology and the Environment*. 
 

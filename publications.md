@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-*I don't always have funding for open access fees, but you can download unformatted versions of my published papers via the "pdf" links below, or [email](luke.barrett@unimelb.edu.au) me and I'll happily send the formatted version. You can also request copies through [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett), or look up Sci-Hub...*  
+*Research should not be paywalled, but sometimes is. Preprints of most of my publications are downloadable via "pdf" links below. Otherwise, contact me via [email](luke.barrett@unimelb.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett) and I'll gladly share the journal-formatted version.*
 
 ---
 

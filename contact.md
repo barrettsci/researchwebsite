@@ -5,7 +5,7 @@ title: Contact
   
 ![profile](images/greenprofile.jpg)  
   
-I'm currently a Research Fellow in Innovative Aquaculture, based within the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare Research Group](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to produce some research on the potential value of sustainably developed bivalve and seaweed aquaculture globally.  
+I'm currently a Research Fellow in Innovative Aquaculture, based within the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare Research Group](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to value ecosystem services associated with bivalve and seaweed aquaculture.  
 
 I like collaborating and sharing research, so feel free to get in touch by [email](luke.barrett@unimelb.edu.au) or follow me to see what I've been up to:  
   

@@ -11,8 +11,8 @@ title: In the media
 * [kyst.no](https://www.kyst.no/article/ny-luseforskning-disse-metodene-gir-best-resultat) (Norwegian)
 * [Norsk Fiskeoppdrett](https://www.kyst.no/profile/magazines/132787) (Norwegian)
 
-**No effect of automated laser technology on lice levels in snorkel cages**
-* [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser) (English)
+**Automated laser technology doesn't yet work in snorkel cages**
+* [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser)
 * [kyst.no](https://www.kyst.no/article/forskere-saa-ingen-effekt-av-luselaser) (Norwegian)
 
 **Variable and short-lived effects of cleaner fishes when viewed at national scale**

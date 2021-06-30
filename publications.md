@@ -3,17 +3,13 @@ layout: page
 title: Publications
 ---
 
-*Research should not be paywalled, but it sometimes is. Preprints of most of my publications are downloadable via "pdf" links below. Otherwise, contact me via [email](luke.barrett@unimelb.edu.au) or [ResearchGate](https://www.researchgate.net/profile/Luke_Barrett) and I'll gladly share the journal-formatted version!*
-
----
-
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 
 Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (2021) [Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway](https://doi.org/10.3354/aei00402). *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI-farmed-vs-wild-hosts.pdf)
 
 Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (2021) [Habitat value of bivalve shellfish and seaweed aquaculture for fish and invertebrates: pathways, synthesis, next steps](https://doi.org/10.1111/raq.12584). *Reviews in Aquaculture*.
 
-Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) [An overview of ecological traps in marine ecosystems](https://doi.org/10.1002/fee.2322). *Frontiers in Ecology and the Environment*. 
+Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) [An overview of ecological traps in marine ecosystems](https://doi.org/10.1002/fee.2322). *Frontiers in Ecology and the Environment*.
 
 Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) [Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions](https://doi.org/10.1111/raq.12534). *Reviews in Aquaculture*.
 

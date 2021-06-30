@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+---
 
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 

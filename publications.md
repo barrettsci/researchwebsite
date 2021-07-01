@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+*If you don't have free access to a paper and there's no pdf download link below, [email](luke.barrett@unimelb.edu.au) me and I'll happily share a copy!*
+
+---
+
 Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
 
 Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (2021) [Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway](https://doi.org/10.3354/aei00402). *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI-farmed-vs-wild-hosts.pdf)

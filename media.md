@@ -4,6 +4,7 @@ title: In the media
 ---
 
 **Wild fish and invertebrates use shellfish and seaweed farms as habitat**
+* [nytimes.com](https://www.nytimes.com/2021/08/23/dining/maine-sea-scallops.html)
 * [thefishsite.com](https://thefishsite.com/articles/restorative-aquaculture-shows-we-can-have-more-habitat-and-eat-it-too)
 
 **Sea lice prevention is better than cure**

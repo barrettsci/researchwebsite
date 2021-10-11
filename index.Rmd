@@ -1,0 +1,159 @@
+---
+title: "Dr Luke Barrett"
+image: "forestprofile.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com.au/citations?user=m2VurpgAAAAJ&hl=en"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Luke_Barrett"
+  - label: Twitter
+    url: "https://www.twitter.com/LukeBarrettSci"
+  - label: Instagram
+    url: "https://www.instagram.com/barrettphoto"
+output:
+  postcards::solana
+---
+
+```{css, echo=FALSE}
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+```
+  
+<br>
+  
+## About
+******
+
+I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to value ecosystem services associated with bivalve and seaweed aquaculture.  
+
+I would say that work on 3 main topics, which sometimes overlap:  
+  
+**Theme 1: Role of aquaculture sites as habitat for wildlife**  
+Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities. *Recent research: [Barrett et al. 2019](https://doi.org/10.1111/raq.12277)*  
+  
+**Theme 2: Fish health in salmon farming**  
+Intensive salmon farming has brought great economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice, causing welfare issues and production losses for farmed salmon and threatening wild salmonid populations around heavily infested farms. New methods are needed to prevent, monitor and treat infestations while maintaining high animal welfare standards. *Recent research: [Barrett et al. 2020](http://dx.doi.org/10.1111/raq.12456)*  
+  
+**Theme 3: Temperate reef ecology, conservation and restoration**  
+Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems. *Recent research: [Barrett et al. 2019](https://doi.org/10.1002/eap.1956)*  
+  
+<br>
+
+<br>
+  
+## Publications
+******
+
+*If you don't have free access to a paper and there's no pdf download link below, [email](luke.barrett@unimelb.edu.au) me and I'll happily share a copy!*
+
+Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In Press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing.
+
+Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (2021) [Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway](https://doi.org/10.3354/aei00402). *Aquaculture Environment Interactions*. [pdf](pdfs/Dempster-et-al-2021-AEI-farmed-vs-wild-hosts.pdf)
+
+Theuerkauf SJ, **Barrett LT**, Alleway HK, Costa-Pierce B, St. Gelais A, Jones R (2021) [Habitat value of bivalve shellfish and seaweed aquaculture for fish and invertebrates: pathways, synthesis, next steps](https://doi.org/10.1111/raq.12584). *Reviews in Aquaculture*.
+
+Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) [An overview of ecological traps in marine ecosystems](https://doi.org/10.1002/fee.2322). *Frontiers in Ecology and the Environment*.
+
+Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) [Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions](https://doi.org/10.1111/raq.12534). *Reviews in Aquaculture*.
+
+**Barrett LT**, Swearer SE, Dempster T (2020) [Native predator limits the capacity of an invasive seastar to exploit a food-rich habitat](https://doi.org/10.1016/j.marenvres.2020.105152). *Marine Environmental Research*. [pdf](pdfs/Barrett-et-al-2020-MERE-seastars.pdf)
+
+**Barrett LT**, Oppedal F, Robinson N, Dempster T (2020) [Prevention not cure: a review of methods to avoid sea lice infestations in salmon aquaculture](http://dx.doi.org/10.1111/raq.12456). *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-RAQ-prev-methods.pdf)
+
+Bui S, Geitung L, Oppedal F, **Barrett LT** (2020) [Salmon lice survive the straight shooter: efficacy of laser delousing in commercial sea cages](https://doi.org/10.1016/j.prevetmed.2020.105063). *Preventive Veterinary Medicine*. [pdf](pdfs/Bui-et-al-2020-PVM-laser.pdf)
+
+Bui S, Oppedal F, Nola V, **Barrett LT** (2020) [Where art thou louse? A snapshot of attachment location preferences in salmon lice on Atlantic salmon hosts in sea cages](https://doi.org/10.1111/jfd.13167). *Journal of Fish Diseases*. [pdf](pdfs/Bui-et-al-2020-JFishDis-attach-locs.pdf)
+
+Fulton CJ, Berkström C, Wilson SK, Abesamis RA, Bradley M, Åkerlund C, **Barrett LT**, Bucol AA, Chacin DH, Chong-Seng KM, Coker DJ, Depczynski M, Eggertsen L, Eggertsen M, Ellis D, Evans RD, Graham NAJ, Hoey AS, Holmes TH, Kulbicki M, Leung PTY, Lam PKS, van Lier J, Matis PA, Noble MM, Pérez-Matus A, Piggott C, Radford BT, Tano S, Tinkler P (2020) [Macroalgal meadow habitats support fish and fisheries in diverse tropical seascapes](https://dx.doi.org/10.1111/faf.12455). *Fish and Fisheries*. [pdf](pdfs/Fulton-et-al-2020-FishandFisheries-seaweed.pdf)
+
+**Barrett LT**, Overton K, Stien LH, Oppedal F, Dempster T (2020) [Effect of cleaner fish on sea lice in Norwegian salmon aquaculture: a national scale data analysis](https://doi.org/10.1016/j.ijpara.2019.12.005). *International Journal for Parasitology*. [pdf](pdfs/Barrett-et-al-2020-IJPara-cleaner-fish.pdf)
+
+Overton K, **Barrett LT**, Oppedal F, Kristiansen TS, Dempster T (2020) [Sea lice removal by cleaner fish in salmon aquaculture: a review of the evidence base](https://doi.org/10.3354/aei00345). *Aquaculture Environment Interactions*. [pdf](pdfs/Overton-et-al-2020-AEI-cleaner-fish.pdf)
+
+Hassell K, **Barrett LT**, Dempster T (2020) Impacts of human-induced pollution on wild fish welfare. Book chapter in: [The Welfare of Fish](https://www.springer.com/gp/book/9783030416744#aboutBook) (edited by T Kristiansen et al.). Springer
+
+**Barrett LT**, Bui S, Oppedal F, Bardal T, Olsen RE, Dempster T (2020) [Ultraviolet-C light suppresses reproduction of sea lice but has adverse effects on host salmon](https://doi.org/10.1016/j.aquaculture.2020.734954). *Aquaculture*. [pdf](pdfs/Barrett-et-al-2020-Aquaculture-UVC.pdf)
+
+**Barrett LT**, Pert CG, Bui S, Oppedal F, Dempster T (2020) [Sterilization of sea lice eggs with ultraviolet C light: towards a new preventative technique for aquaculture](https://doi.org/10.1002/ps.5595). *Pest Management Science*. [pdf](pdfs/Barrett-et-al-2019-PMS-UVC.pdf)
+
+**Barrett LT**, Dempster T, Swearer SE (2019) [A nonnative habitat-former mitigates native habitat loss for endemic reef fishes](https://doi.org/10.1002/eap.1956). *Ecological Applications*. [pdf](pdfs/Barrett-et-al-2019-EcolApps-wakame.pdf)
+
+**Barrett LT**, Swearer SE, Dempster T (2019) [Impacts of marine and freshwater aquaculture on wildlife: a global meta-analysis](https://doi.org/10.1111/RAQ.12277). *Reviews in Aquaculture*. [pdf](pdfs/Barrett-et-al-2019-RAQ-wildlife.pdf)
+
+**Barrett LT**, Swearer SE, Harboe T, Karlsen Ø, Meier S, Dempster T (2018) [Limited evidence for differential reproductive fitness of wild Atlantic cod in areas of high and low salmon farming density](https://doi.org/10.3354/aei00275). *Aquaculture Environment Interactions*. [pdf](pdfs/Barrett-et-al-2018-AEI-cod.pdf)
+
+**Barrett LT**, de Lima A, Goetze JS (2018) [Evidence of a biomass hotspot for targeted fish species within Namena Marine Reserve, Fiji](https://doi.org/10.1071/PC18034). *Pacific Conservation Biology*. [pdf](pdfs/Barrett-et-al-2018-PCB-Fiji.pdf)
+
+Dempster T, Arechavala-Lopez P, **Barrett LT**, Fleming IA, Sanchez-Jerez P, Uglem I (2018) [Recapturing escaped fish from marine aquaculture is largely unsuccessful: alternatives to reduce the number of escapees in the wild](https://doi.org/10.1111/raq.12153). *Reviews in Aquaculture*. [pdf](pdfs/Dempster-et-al-2018-RAQ-escapes.pdf)
+
+**Barrett LT**, Evans JP, Gasparini C (2014) [The effects of perceived mating opportunities on patterns of reproductive investment by male guppies](https://doi.org/10.1371/journal.pone.0093780). *PLoS ONE*. [pdf](pdfs/Barrett-et-al-2014-PLOSONE-guppies.pdf)
+  
+<br>
+
+<br>
+  
+## In the media
+******
+
+**Wild fish and invertebrates use shellfish and seaweed farms as habitat**  
+
+* [nytimes.com](https://www.nytimes.com/2021/08/23/dining/maine-sea-scallops.html)  
+* [nationalgeographic.com](https://www.nationalgeographic.com/travel/article/how-tourism-is-helping-save-oyster-populations)  
+* [msn.com](https://www.msn.com/en-nz/news/world/your-love-for-fresh-oysters-can-help-the-planet/ar-AAMDe9t?li=AAFw8Vh&srcref=rss)  
+* [thefishsite.com](https://thefishsite.com/articles/restorative-aquaculture-shows-we-can-have-more-habitat-and-eat-it-too)  
+
+**Sea lice prevention is better than cure**  
+
+* [thefishsite.com](https://thefishsite.com/articles/why-sea-lice-prevention-is-better-than-cure)  
+* [kyst.no](https://www.kyst.no/article/ny-luseforskning-disse-metodene-gir-best-resultat)
+* [Norsk Fiskeoppdrett](https://www.kyst.no/profile/magazines/132787)  
+
+**Automated laser technology doesn't work yet (in snorkel cages)**  
+
+* [thefishsite.com](https://thefishsite.com/articles/study-shoots-down-sea-louse-laser)  
+* [kyst.no](https://www.kyst.no/article/forskere-saa-ingen-effekt-av-luselaser)  
+
+**Variable and short-lived effects of cleaner fishes when viewed at national scale**  
+
+* [thefishsite.com](https://thefishsite.com/articles/paper-questions-cleaner-fish-efficacy)  
+* [hi.no](https://www.hi.no/en/hi/news/2020/november/study-cleaner-fish-no-magic-bullet-against-salmon-lice) (English version)  
+* [hi.no](https://www.hi.no/hi/nyheter/2020/mars/rensefisk-ingen-universalkur-mot-lakselus) (Norwegian version)  
+* [kyst.no](https://www.kyst.no/article/studie-rensefisk-ingen-universalkur-mot-lakselus/)  
+
+**The use of cleaner fishes in salmon farming is based on weak evidence**  
+
+* [thefishsite.com](https://thefishsite.com/articles/study-questions-cleaner-fish-efficiency)  
+* [dn.no](https://www.dn.no/havbruk/edgar-brun/veterinarinstituttet/frode-oppedal/mener-laksenaringen-ikke-er-barekraftig-ma-si-klarere-ifra/2-1-752295)  
+* [kyst.no](https://www.kyst.no/article/etterlyser-dokumentasjon-paa-at-rensefisk-er-effektivt/)  
+* [kystogfjord.no](https://www.kystogfjord.no/nyheter/forsiden/Usikker-paa-effekten-av-rensefisk)  
+* [hi.no](https://www.hi.no/hi/nyheter/2020/februar/trenger-mer-dokumentasjon-pa-effekten-av-rensefisk-i-kommersielle-laksemerder)  
+
+**UVC light for sterilisation of sea louse eggs**  
+
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/uv-light-could-be-used-in-fight-against-sea-lice)  
+* [nrk.no](https://www.nrk.no/nordland/mislykket-forsok-med-uv-lys-for-a-ta-knekken-pa-lakselusa.-laksen-ble-skadet-og-solbrent-1.14962964)  
+* [kyst.no](https://www.kyst.no/article/kan-ta-knekken-paa-luse-egg-med-uv-lys)  
+* [hi.no](https://www.hi.no/hi/nyheter/2020/mars/uv-lys-tar-knekken-pa-lakselus-men-gjor-laksen-solbrent)  
+
+**Recapturing fish that escape from farms does not work: what are the alternatives?**  
+
+* [fishfarmingexpert.com](https://www.fishfarmingexpert.com/article/recapture-rethink-required)  
+
+**An introduction to ecological traps**  
+
+* [Pursuit magazine](https://pursuit.unimelb.edu.au/articles/when-good-animals-make-bad-decisions)  
+
+<br>
+
+<br>
+
+******
+
+<font size="2"> Page built using the _postcards_ package for _R_. </font> 
+
+
+
+
+

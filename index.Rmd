@@ -1,6 +1,6 @@
 ---
 title: "Dr Luke Barrett"
-image: "forestprofile.jpg"
+image: "images/forestprofile.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com.au/citations?user=m2VurpgAAAAJ&hl=en"

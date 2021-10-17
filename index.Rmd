@@ -34,7 +34,7 @@ body {
 
 I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to value ecosystem services associated with bivalve and seaweed aquaculture.  
   
-**Theme 1: Environmentally beneficial aquaculture**  
+**Theme 1: Ecologically beneficial aquaculture**  
 Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities. *Recent research: [Barrett et al. 2019](https://doi.org/10.1111/raq.12277)*  
   
 **Theme 2: Fish health in salmon farming**  
@@ -103,6 +103,10 @@ Dempster T, Arechavala-Lopez P, **Barrett LT**, Fleming IA, Sanchez-Jerez P, Ugl
 * [National Geographic](https://www.nationalgeographic.com/travel/article/how-tourism-is-helping-save-oyster-populations)  
 * [MSN News](https://www.msn.com/en-nz/news/world/your-love-for-fresh-oysters-can-help-the-planet/ar-AAMDe9t?li=AAFw8Vh&srcref=rss)  
 * [The Fish Site](https://thefishsite.com/articles/restorative-aquaculture-shows-we-can-have-more-habitat-and-eat-it-too)  
+
+**Should we be tagging fish for aquaculture research?**  
+
+* [The Fish Site](https://thefishsite.com/articles/the-pros-and-cons-of-tagging-farmed-fish)  
 
 **Sea lice prevention is better than cure**  
 

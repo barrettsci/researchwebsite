@@ -35,13 +35,16 @@ body {
 I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to value ecosystem services associated with bivalve and seaweed aquaculture.  
   
 **Theme 1: Ecologically beneficial aquaculture**  
-Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities. *Recent research: [Barrett et al. 2019](https://doi.org/10.1111/raq.12277)*  
+Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  
+*Recent research: [Barrett et al. 2019](https://doi.org/10.1111/raq.12277)*  
   
 **Theme 2: Fish health in salmon farming**  
-Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice. Severe louse outbreaks cause welfare issues in farmed salmon and threaten their relatives in wild (we estimate that around 99% of salmon lice in Norway originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards. *Recent research: [Barrett et al. 2020](http://dx.doi.org/10.1111/raq.12456)*  
+Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice. Severe louse outbreaks cause welfare issues in farmed salmon and threaten their relatives in wild (we estimate that around 99% of salmon lice in Norway originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  
+*Recent research: [Barrett et al. 2020](http://dx.doi.org/10.1111/raq.12456)*  
   
 **Theme 3: Temperate reef ecology, conservation and restoration**  
-Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems. *Recent research: [Barrett et al. 2019](https://doi.org/10.1002/eap.1956)*  
+Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems.  
+*Recent research: [Barrett et al. 2019](https://doi.org/10.1002/eap.1956)*  
   
 <br>
   

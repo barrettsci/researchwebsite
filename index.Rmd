@@ -32,11 +32,11 @@ body {
 ## About
 ******
 
-I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I'm also contracting with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/how-investors-can-turn-the-tide-on-aquaculture/) to value ecosystem services associated with bivalve and seaweed aquaculture.  
+I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I've also recently been a visiting researcher at [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
   
 **Theme 1: Ecologically beneficial aquaculture**  
 Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  
-*Recent research: [Barrett et al. 2019](https://doi.org/10.1111/raq.12277)*  
+*Recent research: [Barrett et al. 2022](https://doi.org/10.1016/j.ecoser.2021.101396)*  
   
 **Theme 2: Fish health in salmon farming**  
 Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice. Severe louse outbreaks cause welfare issues in farmed salmon and threaten their relatives in wild (we estimate that around 99% of salmon lice in Norway originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  

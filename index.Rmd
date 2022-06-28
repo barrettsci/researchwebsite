@@ -1,5 +1,5 @@
 ---
-title: "Dr Luke Barrett"
+title: "Luke T Barrett"
 image: "images/forestprofile.jpg"
 links:
   - label: Google Scholar

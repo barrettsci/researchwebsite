@@ -40,7 +40,7 @@ Aquaculture modifies coastal marine environments by providing structure and food
   
 **Theme 2: Fish health in salmon farming**  
 Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice. Severe louse outbreaks cause welfare issues in farmed salmon and threaten their relatives in wild (we estimate that around 99% of salmon lice in Norway originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  
-*Recent research: [Barrett et al. 2020](http://dx.doi.org/10.1111/raq.12456)*  
+*Recent research: [Barrett et al. 2022](https://doi.org/10.1016/j.aquaculture.2022.738440)*  
   
 **Theme 3: Rocky reef ecology, conservation and restoration**  
 Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems.  
@@ -50,6 +50,8 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
   
 ## Publications
 ******
+
+1. Macaulay G, **Barrett LT**, Dempster T (In press) Recognising trade-offs between welfare and environmental outcomes in aquaculture will enable good decisions. *Aquaculture Environment Interactions*. [**email for pdf**](luke.barrett@unimelb.edu.au)
 
 1. **Barrett LT**, Oldham T, Kristiansen TS, Oppedal F, Stien LH (2022) Declining size-at-harvest in Norwegian salmon aquaculture: lice, disease, and the role of stunboats. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738440). Open access.
 

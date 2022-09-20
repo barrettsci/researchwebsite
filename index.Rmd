@@ -51,9 +51,11 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Lennox RJ, **Barrett LT**, Nilsen C, Berhe S, Barlaup B, Vollset KW (In press) Moving cleaner fish from the wild into fish farms: a zero-sum game? *Ecological Modelling*.  
+
 1. Robinson N, Robledo D, Sveen L, Daniels R, Krasnov A, Coates A, Jin Y, **Barrett LT**, Lillehammer M, Kettunen A, Phillips B, Dempster T, Doeschl-Wilson A, Samsing F, Difford G, Salisbury S, Gjerde B, Haugen J-E, Burgerhout E, Dagnachew B, Kurian D, Fast MD, Rye M, Salazar M, Bron JE, Monaghan S, Jacq C, Birkett M, Browman H, Skiftesvik A, Fields D, Selander E, Bui S, Sonesson A, Skugor S, Knutsdatter Østbye T-K, Houston R (In press) Applying genetic technologies to combat infectious diseases in aquaculture. [*Reviews in Aquaculture*](https://doi.org/10.1111/raq.12733). Open access.
 
-1. Macaulay G, **Barrett LT**, Dempster T (In press) Recognising trade-offs between welfare and environmental outcomes in aquaculture will enable good decisions. [*Aquaculture Environment Interactions*](https://doi.org/10.3354/aei00439). Open access.
+1. Macaulay G, **Barrett LT**, Dempster T (2022) Recognising trade-offs between welfare and environmental outcomes in aquaculture will enable good decisions. [*Aquaculture Environment Interactions*](https://doi.org/10.3354/aei00439). Open access.
 
 1. **Barrett LT**, Oldham T, Kristiansen TS, Oppedal F, Stien LH (2022) Declining size-at-harvest in Norwegian salmon aquaculture: lice, disease, and the role of stunboats. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738440). Open access.
 

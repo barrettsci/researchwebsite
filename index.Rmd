@@ -32,7 +32,11 @@ body {
 ## About
 ******
 
-I do research to drive more sustainable use of the coastal marine environment. I'm currently a postdoctoral research fellow splitting my time between the [SALTT](https://blogs.unimelb.edu.au/saltt) lab at the University of Melbourne (Australia) and the [Animal Welfare](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) research group at the Institute of Marine Research (Norway). I've also recently been a visiting researcher at [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
+I do research to drive more sustainable use of the coastal marine environment.
+I'm currently a postdoctoral research fellow in the [SALTT](https://blogs.unimelb.edu.au/saltt) lab 
+at the University of Melbourne (Australia). 
+I also work with the [Norwegian Institute of Marine Research](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) 
+and the [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
   
 **Theme 1: Ecologically beneficial aquaculture**  
 Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  
@@ -61,7 +65,7 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 
 1. **Barrett LT**, Oldham T, Kristiansen TS, Oppedal F, Stien LH (2022) Declining size-at-harvest in Norwegian salmon aquaculture: lice, disease, and the role of stunboats. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738440). Open access.
 
-1. Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (In press) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). 3m Publishing. [**email for pdf**](luke.barrett@unimelb.edu.au)
+1. Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (2022) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). [5m Books](https://5mbooks.com/product/sea-lice-biology-and-control). [**email for pdf**](luke.barrett@unimelb.edu.au)
 
 1. Wilson S, Fulton C, Graham N, Abesamis R, Berkström C, Coker D, Depczynski M, Evans R, Fisher R, Goetze J, Hoey A, Holmes T, Kulbicki M, Noble M, Robinson J, Bradley M, Åkerlund C, **Barrett LT**, Birt M, Bucol A, Chacin D, Chong-Seng K, Eggertsen L, Eggertsen M, Ellis D, Leung P; Lam P; van Lier J; Matis P, Pérez-Matus A, Piggott C, Radford B, Tano S, Tinkler P (2022) The contribution of macroalgal associated fishes to small-scale tropical reef fisheries. [*Fish and Fisheries*](http://doi.org/10.1111/faf.12653). Open access.
 

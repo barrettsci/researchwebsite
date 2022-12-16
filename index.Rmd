@@ -55,6 +55,8 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Overton K, Dempster T, Swearer SE, Morris RL, **Barrett LT** (In press) Achieving conservation and restoration outcomes through ecologically beneficial aquaculture. *Conservation Biology*.
+
 1. Nilsson J, **Barrett LT**, Mangor-Jensen A, Nola V, Harboe T, Folkedal O (2023) Effect of water temperature and exposure duration on detachment rate of salmon lice (*Lepeophtheirus salmonis*); testing the relevant thermal spectrum used for delousing. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738879). Open access.
 
 1. Robinson N, Robledo D, Sveen L, Daniels R, Krasnov A, Coates A, Jin Y, **Barrett LT**, Lillehammer M, Kettunen A, Phillips B, Dempster T, Doeschl-Wilson A, Samsing F, Difford G, Salisbury S, Gjerde B, Haugen J-E, Burgerhout E, Dagnachew B, Kurian D, Fast MD, Rye M, Salazar M, Bron JE, Monaghan S, Jacq C, Birkett M, Browman H, Skiftesvik A, Fields D, Selander E, Bui S, Sonesson A, Skugor S, Knutsdatter Østbye T-K, Houston R (2022) Applying genetic technologies to combat infectious diseases in aquaculture. [*Reviews in Aquaculture*](https://doi.org/10.1111/raq.12733). Open access.

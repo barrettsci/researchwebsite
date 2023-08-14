@@ -32,10 +32,7 @@ body {
 ## About
 ******
 
-I do research to drive more sustainable use of the coastal marine environment.
-I'm currently a postdoctoral research fellow in the [SALTT](https://blogs.unimelb.edu.au/saltt) lab 
-at the University of Melbourne (Australia). 
-I also work with the [Norwegian Institute of Marine Research](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) 
+I do research to drive more sustainable use of the coastal marine environment, with a special interest in aquaculture. I'm currently a postdoctoral research fellow in the SALTT lab at Deakin University (Australia). We recently moved to DU from the University of Melbourne, and I've also been working with the [Norwegian Institute of Marine Research](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) 
 and the [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
   
 **Theme 1: Ecologically beneficial aquaculture**  

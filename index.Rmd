@@ -52,6 +52,10 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Overton K, Dempster T, Swearer SE, Morris RL, **Barrett LT** (In press) Aerial exposure tolerance of juvenile flat oysters (*Ostrea angasi*) depends on shell length and air temperature. *Restoration Ecology*.
+
+1. Robinson NA, Østbye TKK, Kettunen AH, Coates A, **Barrett LT**, Robledo D, Dempster T (2023) A guide to assess the use of gene editing in aquaculture. [*Reviews in Aquaculture*](https://doi.org/10.1111/raq.12866). Open access.
+
 1. Overton K, Dempster T, Swearer SE, Morris RL, **Barrett LT** (2023) Achieving conservation and restoration outcomes through ecologically beneficial aquaculture. [*Conservation Biology*](https://doi.org/10.1111/cobi.14065). Open access.
 
 1. Nilsson J, **Barrett LT**, Mangor-Jensen A, Nola V, Harboe T, Folkedal O (2023) Effect of water temperature and exposure duration on detachment rate of salmon lice (*Lepeophtheirus salmonis*); testing the relevant thermal spectrum used for delousing. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738879). Open access.
@@ -64,17 +68,17 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 
 1. **Barrett LT**, Oldham T, Kristiansen TS, Oppedal F, Stien LH (2022) Declining size-at-harvest in Norwegian salmon aquaculture: lice, disease, and the role of stunboats. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738440). Open access.
 
-1. Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (2022) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). [5m Books](https://5mbooks.com/product/sea-lice-biology-and-control). [**email for pdf**](luke.barrett@unimelb.edu.au)
+1. Oppedal O, Stien LH, Bui S, Oldham T, **Barrett LT** (2022) Physical prevention and control of sea lice. Book chapter in: Sea Lice Biology and Control (edited by J Treasurer et al.). [5m Books](https://5mbooks.com/product/sea-lice-biology-and-control). [**email for pdf**](l.barrett@deakin.edu.au)
 
 1. Wilson S, Fulton C, Graham N, Abesamis R, Berkström C, Coker D, Depczynski M, Evans R, Fisher R, Goetze J, Hoey A, Holmes T, Kulbicki M, Noble M, Robinson J, Bradley M, Åkerlund C, **Barrett LT**, Birt M, Bucol A, Chacin D, Chong-Seng K, Eggertsen L, Eggertsen M, Ellis D, Leung P; Lam P; van Lier J; Matis P, Pérez-Matus A, Piggott C, Radford B, Tano S, Tinkler P (2022) The contribution of macroalgal associated fishes to small-scale tropical reef fisheries. [*Fish and Fisheries*](http://doi.org/10.1111/faf.12653). Open access.
 
-1. McIntosh P, **Barrett LT**, Warren-Myers F, Coates A, Macaulay G, Szetey A, Robinson N, White C, Samsing F, Oppedal F, Folkedal O, Klebert P, Dempster T (2022) Supersizing salmon farms in the coastal zone: a global analysis of changes in farm technology and location from 2005 to 2020. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738046). [**email for pdf**](luke.barrett@unimelb.edu.au)
+1. McIntosh P, **Barrett LT**, Warren-Myers F, Coates A, Macaulay G, Szetey A, Robinson N, White C, Samsing F, Oppedal F, Folkedal O, Klebert P, Dempster T (2022) Supersizing salmon farms in the coastal zone: a global analysis of changes in farm technology and location from 2005 to 2020. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2022.738046). [**email for pdf**](l.barrett@deakin.edu.au)
 
 1. **Barrett LT**, Theuerkauf SJ, Rose JM, Alleway HK, Bricker SB, Parker M, Petrolia DR, Jones RC (2022) Sustainable growth of non-fed aquaculture can generate valuable ecosystem benefits. [*Ecosystem Services*](https://doi.org/10.1016/j.ecoser.2021.101396). Open access.
 
-1. Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) An overview of ecological traps in marine ecosystems. [*Frontiers in Ecology and the Environment*](https://doi.org/10.1002/fee.2322). [**email for pdf**](luke.barrett@unimelb.edu.au)
+1. Swearer SE, Morris RL, **Barrett LT**, Sievers M, Dempster T, Hale R (2021) An overview of ecological traps in marine ecosystems. [*Frontiers in Ecology and the Environment*](https://doi.org/10.1002/fee.2322). [**email for pdf**](l.barrett@deakin.edu.au)
 
-1. Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions. [*Reviews in Aquaculture*](https://doi.org/10.1111/raq.12534). [**email for pdf**](luke.barrett@unimelb.edu.au)
+1. Macaulay G, Warren-Myers F, **Barrett LT**, Oppedal F, Føre M, Dempster T (2021) Tag use to monitor fish behaviour in aquaculture: a review of benefits, problems, and solutions. [*Reviews in Aquaculture*](https://doi.org/10.1111/raq.12534). [**email for pdf**](l.barrett@deakin.edu.au)
 
 1. Dempster T, Overton K, Bui S, Stien LH, Oppedal F, Karlsen Ø, Coates A, Phillips BL, **Barrett LT** (2021) Farmed salmonids drive the abundance, ecology and evolution of parasitic salmon lice in Norway. [*Aquaculture Environment Interactions*](https://doi.org/10.3354/aei00402). Open access.
 

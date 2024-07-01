@@ -51,9 +51,9 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
   
 ## Publications
 ******
-1. Loebmann A, **Barrett LT**, Oppedal F, Dempster T (In press) A passive, welfare-friendly fish sampling method is representative for size but selective for parasite load. *Aquaculture*. [**email for pdf**](l.barrett@deakin.edu.au)
-
 1. Oppedal F, **Barrett LT**, Fraser TWK, Vågseth T, Zhang G, Andersen OG, Jacson L, Dieng M-A, Vindas MA (In press) The behavioral and neurobiological response to sound stress in salmon. *Brain, Behavior and Evolution*. [**email for pdf**](l.barrett@deakin.edu.au)
+
+1. Loebmann A, **Barrett LT**, Oppedal F, Dempster T (2024) A passive, welfare-friendly fish sampling method is representative for size but selective for parasite load. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.741295). Open access.
 
 1. Harvey M, **Barrett LT**, Morris RL, Swearer SE, Dempster T (2024) Ocean sprawl: The global footprint of shellfish and algae aquaculture and its implications for production, environmental impact, and biosecurity. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.740747). Open access.
 

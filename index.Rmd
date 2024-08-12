@@ -35,22 +35,21 @@ body {
 I do research to drive more sustainable use of the coastal marine environment, with a special interest in aquaculture. I'm currently a postdoctoral research fellow in the SALTT lab at Deakin University (Australia). We recently moved to DU from the University of Melbourne, and I've also been working with the [Norwegian Institute of Marine Research](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) 
 and the [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
   
-**Theme 1: Ecologically beneficial aquaculture**  
-Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  
-*Recent research: [Barrett et al. 2022](https://doi.org/10.1016/j.ecoser.2021.101396)*  
+**Theme 1: Fish health and parasite control in salmon farming**  
+Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, including sea lice, which cause welfare issues in farmed salmon and threaten wild populations (we estimate that 99% of salmon lice in Norwegian waters originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  
   
-**Theme 2: Fish health in salmon farming**  
-Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, especially sea lice. Severe louse outbreaks cause welfare issues in farmed salmon and threaten their relatives in wild (we estimate that around 99% of salmon lice in Norway originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  
-*Recent research: [Barrett et al. 2022](https://doi.org/10.1016/j.aquaculture.2022.738440)*  
+**Theme 2: Ecologically beneficial aquaculture**  
+Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.  
   
 **Theme 3: Rocky reef ecology, conservation and restoration**  
 Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems.  
-*Recent research: [Barrett et al. 2019](https://doi.org/10.1002/eap.1956)*  
   
 <br>
   
 ## Publications
 ******
+1. **Barrett LT**, Unneland Larsen L-T, Bui S, Vågseth T, Eide E, Dempster T, Oppedal F, Folkedal O (In press) Post-smolt Atlantic salmon can regulate buoyancy in submerged sea-cages by gulping air bubbles. *Aquacultural Engineering*. [**email for pdf**](l.barrett@deakin.edu.au)
+
 1. Oppedal F, **Barrett LT**, Fraser TWK, Vågseth T, Zhang G, Andersen OG, Jacson L, Dieng M-A, Vindas MA (In press) The behavioral and neurobiological response to sound stress in salmon. *Brain, Behavior and Evolution*. [**email for pdf**](l.barrett@deakin.edu.au)
 
 1. Loebmann A, **Barrett LT**, Oppedal F, Dempster T (2024) A passive, welfare-friendly fish sampling method is representative for size but selective for parasite load. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.741295). Open access.

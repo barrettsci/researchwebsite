@@ -35,7 +35,7 @@ body {
 I do research to drive more sustainable use of the coastal marine environment, with a special interest in aquaculture. I'm currently a postdoctoral research fellow in the SALTT lab at Deakin University (Australia). We recently moved to DU from the University of Melbourne, and I've also been working with the [Norwegian Institute of Marine Research](https://www.hi.no/en/hi/forskning/research-groups-1/animal-welfare) 
 and the [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/).  
   
-**Theme 1: Fish health and parasite control in salmon farming**  
+**Theme 1: Fish health and parasite control in salmon aquaculture**  
 Intensive salmon farming has brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, including sea lice, which cause welfare issues in farmed salmon and threaten wild populations (we estimate that 99% of salmon lice in Norwegian waters originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.  
   
 **Theme 2: Ecologically beneficial aquaculture**  
@@ -49,7 +49,7 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
-1. Loebmann A, Geitung L, **Barrett LT**, Oppedal F, Dempster T (In press) Jump nets passively isolate lice-infected salmon and enable targeted treatment using cleaner fish. *Aquaculture*. [**email for pdf**](l.barrett@deakin.edu.au)
+1. Loebmann A, Geitung L, **Barrett LT**, Oppedal F, Dempster T (In press) Jump nets passively isolate lice-infected salmon and enable targeted treatment using cleaner fish. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.741901). Open access.
 
 1. Overton K, Dempster T, Swearer SE, Morris RL, **Barrett LT** (2024) Predictors of outplanted marine bivalve survival in restoration: a review and synthesis. [*Journal of Applied Ecology*](https://doi.org/10.1111/1365-2664.14795). Open access.
 

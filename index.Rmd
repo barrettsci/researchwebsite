@@ -49,6 +49,8 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. **Barrett LT**, Oppedal F, Harvey M, Eichner C, Sambraus F, Dalvin S (In press) Collection rates of detached mobile sea lice according to net mesh and body size: a benchtop model. *Aquacultural Engineering*.
+
 1. Dalvin S, Oppedal F, Harvey M, **Barrett LT** (2024) Salmon lice detached during aquaculture practices survive and can reinfest other hosts. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.742065). Open access.
 
 1. Loebmann A, Geitung L, **Barrett LT**, Oppedal F, Dempster T (2024) Jump nets passively isolate lice-infected salmon and enable targeted treatment using cleaner fish. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2024.741901). Open access.

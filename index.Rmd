@@ -49,6 +49,8 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Geitung L, **Barrett LT**, Nola V, Dalvin S, Vatne Martinsen L, Dahlgren A, Oppedal F (In press) Crowding causes detachment and loss of mobile sea lice: fine-meshed crowding nets may mitigate spread. *Aquaculture Reports*. [**email for pdf**](l.barrett@deakin.edu.au)
+
 1. **Barrett LT**, Oppedal F (2025) Characterisation of the underwater soundscape at Norwegian salmon farms. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2025.742334). Open access.
 
 1. **Barrett LT**, Oppedal F, Harvey M, Eichner C, Sambraus F, Dalvin S (2025) Collection rates of detached mobile sea lice according to net mesh and body size: a benchtop model. [*Aquacultural Engineering*](https://doi.org/10.1016/j.aquaeng.2025.102514). Open access.

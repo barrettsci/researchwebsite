@@ -49,6 +49,8 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Hvas M, **Barrett LT**, Gjerde LM, Vågseth T, Oppedal F, Folkedal O (2025) Heart rates, activity, and welfare of Atlantic salmon reared to harvest size in a semi-closed prototype sea-cage or ambient conditions. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2025.743601). Open access.
+
 1. **Barrett LT**, Jensen MF, Dalvin S, Oppedal F (2025) Behaviour and dispersal of mobile salmon lice when detached from the host. [*Journal of Fish Diseases*](https://doi.org/10.1111/jfd.14143). Open access.
 
 1. Overton K, Dempster T, Swearer SE, **Barrett LT** (2025) Post-release survival of marine gastropods: a review. [*Biological Conservation*](https://doi.org/10.1016/j.biocon.2025.111153). Open access.

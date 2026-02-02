@@ -49,6 +49,10 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Publications
 ******
 
+1. Overton K, **Barrett LT**, Oppedal F, Oldham T, Geitung L, Gismervik K, Dempster T (In press) The rise and fall of cleaner fish use in Norwegian salmon farming. [Aquaculture Environment Interactions](https://doi.org/10.3354/aei00520). Open access.
+
+1. Overton K, Harvey M, Dempster T, Swearer SE, Morris RL, **Barrett LT** (2026) Interspecific facilitation, elevation gradient, and site influence intertidal Ostrea angasi survival and growth. [Restoration Ecology](https://doi.org/10.1111%2Frec.70341). Open access.
+
 1. Hvas M, **Barrett LT**, Gjerde LM, Vågseth T, Oppedal F, Folkedal O (2025) Heart rates, activity, and welfare of Atlantic salmon reared to harvest size in a semi-closed prototype sea-cage or ambient conditions. [*Aquaculture*](https://doi.org/10.1016/j.aquaculture.2025.743601). Open access.
 
 1. **Barrett LT**, Jensen MF, Dalvin S, Oppedal F (2025) Behaviour and dispersal of mobile salmon lice when detached from the host. [*Journal of Fish Diseases*](https://doi.org/10.1111/jfd.14143). Open access.
@@ -144,60 +148,65 @@ Seaweed and kelp habitats are diverse and productive, but have come under threat
 ## Grants (external only)
 ******
 
-**2024**  
-Title: Forebygging og kontroll med lus – et dypdykk i effekt og fiskehelse ved bruk av laser (ContrlLaser)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901985  
-Role: Work package lead
+**2026**  
+*Title*: Uncertainty and improvement of manual sea lice counting – basis for validation of automatic counting systems (LuseMet)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 910731  
+*Role*: Work package lead  
 
 **2024**  
-Title: Developing the tools and knowledge required for sustainable submerged salmon production (SafeSubmergence)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901933  
-Role: Work package lead  
+*Title*: Forebygging og kontroll med lus – et dypdykk i effekt og fiskehelse ved bruk av laser (ContrlLaser)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901985  
+*Role*: Work package lead  
+
+**2024**  
+*Title*: Developing the tools and knowledge required for sustainable submerged salmon production (SafeSubmergence)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901933  
+*Role*: Work package lead  
 
 **2023**  
-Title: Optimizing fish welfare and protective efficacy when using lice barrier technologies (BetterWel)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901878  
-Role: Work package lead  
+*Title*: Optimizing fish welfare and protective efficacy when using lice barrier technologies (BetterWel)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901878  
+*Role*: Work package lead  
 
 **2023**  
-Title: Standard Operating Procedure for validation of automatic lice counts (AutoSOP)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901881  
-Role: Work package lead  
+*Title*: Standard Operating Procedure for validation of automatic lice counts (AutoSOP)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901881  
+*Role*: Work package lead  
 
 **2023**  
-Title: Best practice for prevention and control of sea lice (LusePraksis)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901858  
-Role: Work package lead  
+*Title*: Best practice for prevention and control of sea lice (LusePraksis)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901858  
+*Role*: Work package lead  
 
 **2022**  
-Title: Lice collection and re-infection in the sea (LuseOppsamlingSjø)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901784  
-Role: Work package lead  
+*Title*: Lice collection and re-infection in the sea (LuseOppsamlingSjø)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901784  
+*Role*: Work package lead  
 
 **2021**  
-Title: Tying the knot: unifying behavior, environment and technology for optimal site management (PreventLice)  
-Funder: Norwegian Seafood Research Fund (FHF) project 901685  
-Role: Work package lead  
+*Title*: Tying the knot: unifying behavior, environment and technology for optimal site management (PreventLice)  
+*Funder*: Norwegian Seafood Research Fund (FHF) project 901685  
+*Role*: Work package lead  
 
 **2015**  
-Title: Ecological effects of an invasive seaweed in Port Phillip Bay  
-Funder: Victorian Environmental Assessment Council: Bill Borthwick Student Scholarship  
-Role: Lead (student grant)  
+*Title*: Ecological effects of an invasive seaweed in Port Phillip Bay  
+*Funder*: Victorian Environmental Assessment Council: Bill Borthwick Student Scholarship  
+*Role*: Lead (student grant)  
 
 **2015**  
-Title: Invasive kelp patches: traps or refuges for fish on degraded reefs?  
-Funder: PADI Foundation Grant  
-Role: Lead (student grant)  
+*Title*: Invasive kelp patches: traps or refuges for fish on degraded reefs?  
+*Funder*: PADI Foundation Grant  
+*Role*: Lead (student grant)  
 
 **2015**  
-Title: Invasive macroalgal habitats: traps or refuges for endemic fish on degraded reefs?  
-Funder: Holsworth Wildlife Research Endowment  
-Role: Lead (student grant)  
+*Title*: Invasive macroalgal habitats: traps or refuges for endemic fish on degraded reefs?  
+*Funder*: Holsworth Wildlife Research Endowment  
+*Role*: Lead (student grant)  
 
 **2014**  
-Title: Attraction, predation and production of native and invasive seastars on mussel farms in Victoria  
-Funder: Holsworth Wildlife Research Endowment  
-Role: Lead (student grant)  
+*Title*: Attraction, predation and production of native and invasive seastars on mussel farms in Victoria  
+*Funder*: Holsworth Wildlife Research Endowment  
+*Role*: Lead (student grant)  
 
 <br>
   

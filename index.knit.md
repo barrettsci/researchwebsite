@@ -20,12 +20,12 @@ output:
   postcards::solana
 ---
 
-```{css, echo=FALSE}
+<style type="text/css">
 body {
   background-color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
-```
+</style>
 
 <br>
   

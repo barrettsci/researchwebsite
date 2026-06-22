@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+website:
+  title: "Luke T Barrett"
+  navbar:
+    background: light
+    foreground: dark
+    pinned: true
+    right:
+      - text: About
+        href: "/#about"
+      - text: Publications
+        href: "/#publications"
+      - text: Grants
+        href: "/#grants"
+      - text: Media
+        href: "/#in-the-media"
+      - text: Education
+        href: "/#education"
+  page-footer:
+    left: "Built with [Quarto](https://quarto.org)"
+    right: "Luke T Barrett"
+
+execute:
+  enabled: false
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true

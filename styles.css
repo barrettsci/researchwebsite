@@ -1,0 +1,51 @@
+/* ── Profile header ─────────────────────────────────────── */
+.profile-header {
+  padding: 2.5rem 0 2rem 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.profile-photo-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+.profile-text-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1rem;
+}
+
+/* ── Mobile: stack and centre ───────────────────────────── */
+@media (max-width: 767px) {
+  .profile-header {
+    text-align: center;
+  }
+
+  .profile-photo {
+    width: 130px;
+    height: 130px;
+    margin: 0 auto 1.2rem auto;
+  }
+
+  .profile-links {
+    justify-content: center;
+  }
+}

@@ -29,14 +29,23 @@ I do research to drive more sustainable use of the coastal marine environment, w
 **Theme 1: Fish health and parasite control in salmon aquaculture**
 Intensive salmon farming brings economic benefits, but also problems. Salmon farms amplify pathogens and parasites, including sea lice, which cause welfare issues in farmed salmon and threaten wild populations (we estimate that 99% of salmon lice in Norwegian waters originate from salmon farms). New methods are needed to prevent, monitor and treat infestations without compromising animal welfare standards.
 
+![](images/parr-banner.jpg){fig-alt="Photo of a salmon parr in a Norwegian River"}
+
 **Theme 2: Ecologically beneficial aquaculture**
 Aquaculture modifies coastal marine environments by providing structure and food and altering nutrient dynamics. A better understanding of these effects can help achieve more positive outcomes, mitigate negative impacts, and provide a net enhancement of ecosystem services for coastal communities.
+
+![](images/racks-banner.jpg){fig-alt="Photo of floating oyster baskets at Coffin Bay"}
 
 **Theme 3: Oyster reef restoration**
 Native flat oysters (*Ostrea angasi*) once formed extensive reefs in bays and estuaries across southern Australia, before post-colonial dredge fisheries removed the living oysters along with centuries worth of old shell that had built up to form the reefs. We are investigating ways to optimise restoration, including targeting intertidal areas to lower restoration costs and facilitate engagement.
 
+![](images/angasi-banner.jpg){fig-alt="Photo of angasi oysters on reef in Corner Inlet"}
+
+
 **Theme 4: Rocky reef ecology, conservation and restoration**
 Seaweed and kelp habitats are diverse and productive, but have come under threat from multiple stressors including eutrophication, sedimentation and overgrazing. I'm interested in the conservation of seaweed habitats in degraded coastal areas, including the role of invasive macroalgae as surrogate habitat and strategies to manage overabundant sea urchins and allow recovery of kelp ecosystems.
+
+![](images/kelp-banner.jpg){fig-alt="Photo of healthy Ecklonia kelp canopy in Port Phillip Bay"}
 
 ## Publications
 
